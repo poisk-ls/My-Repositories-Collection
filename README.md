@@ -31,6 +31,3 @@ id | Name | Command | Status |
 27 | Termux-Installation | https://github.com/poisk-ls/Termux-Installation | 1
 28 | html-sourcecode | https://github.com/poisk-ls/html-sourcecode | 1
 
-![Climate Spiral](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/ClimateSpiral.gif)
-![Alt Text]( https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/15675.gif)
-
