@@ -31,3 +31,4 @@ id | Command | Status |
 27 | <a href="https://github.com/poisk-ls/Termux-Installation">Termux-Installation </a> | 1
 28 | <a href="https://github.com/poisk-ls/html-sourcecode">html-sourcecode </a> | 1
 
+[back to home](https://github.com/poisk-ls#%F0%9D%95%BF%F0%9D%96%86%F0%9D%96%87%F0%9D%96%91%F0%9D%96%8A-%F0%9D%96%94%F0%9D%96%8B-%F0%9D%96%88%F0%9D%96%94%F0%9D%96%93%F0%9D%96%99%F0%9D%96%8A%F0%9D%96%93%F0%9D%96%99%F0%9D%96%98)
